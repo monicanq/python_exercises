@@ -1,2 +1,2 @@
-# python_exercises
-The exercises in this repository are a random collection of exercises that I have found in books or the internet in order to keep practising code every day.
+# strong password detection
+Simple exercise from the recommended exercises in the book Automate the boring stuff. The code prompts the user to enter a password and checks agaisnt some regex to determine whether the password contains at least one lower case letter, one capital letter and one number or not.
